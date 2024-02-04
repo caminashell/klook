@@ -2,16 +2,16 @@
 
 ## Introduction
 
+Klook is a quick preview feature based on Qt and Qt Quick, allows users to look at the contents of a file in the Dolphin
+
 > [!WARNING]
 > This project is for exploratory research to revive an old feature, therefore experimental and will have no active support. It is recommended to back up system before using it for production.
-
-Klook is a quick preview feature based on Qt and Qt Quick, allows users to look at the contents of a file in the Dolphin
 
 ## Requirements
 
 To build you must have following programs and packages installed:
 
-`cmake extra-cmake-modules libkf5kdelibs4support-dev qtmultimedia5-dev libkf5declarative-dev libkf5plasma-dev install exiv2 libexiv2-dev libkf5kexiv2-dev`
+`cmake extra-cmake-modules libkf5kdelibs4support-dev qtmultimedia5-dev libkf5declarative-dev libkf5plasma-dev exiv2 libexiv2-dev libkf5kexiv2-dev`
 
 <!-- CHECK LIST: `cmake extra-cmake-modules qtdeclarative5-dev qtmultimedia5-dev libkf5kdelibs4support-dev libqt5x11extras5-dev libkf5iconthemes-dev libkf5plasma-dev libkf5windowsystem-dev libkf5declarative-dev libkf5xmlgui-dev libkf5activities-dev libphonon4qt5-dev build-essential libxcb-util-dev libkf5wayland-dev git gettext libkf5archive-dev libkf5notifications-dev libxcb-util0-dev libsm-dev libkf5crash-dev libkf5newstuff-dev libxcb-shape0-dev libxcb-randr0-dev libx11-dev libx11-xcb-dev kirigami2-dev` -->
 
